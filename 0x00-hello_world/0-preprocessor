@@ -1,2 +1,2 @@
 #!/bin/bash
-#include <stdio.h> /** * main - Entry point
+gcc -E $CFILE -o c
